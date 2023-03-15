@@ -9,7 +9,7 @@ body{
 
 .stopWatch{
     width: 85%;
-    max-width: 720px;
+    max-width: 690px;
     color: rgba(255, 255, 255, 0.856);
     background-color: #d4d6dd46;
     border-top: 1px solid white ;
@@ -26,7 +26,7 @@ body{
 }
 
 .timer {
-    margin: 2rem;
+    margin: 2rem 0;
     font-size: 3rem ;
 }
 

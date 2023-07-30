@@ -1,4 +1,4 @@
 # stopwatch
 Simple stopwatch project
 
-live demo - https://imprsant.github.io/stopwatch/
+live demo - https://codingsapienss.github.io/stopwatch/
